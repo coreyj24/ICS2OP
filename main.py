@@ -1,2 +1,3 @@
-symbol = input("what symbol would you like to use? ")
-low = int(input("enter the number to start "))
+tries = 1
+print("what what gets wetter the more it dries?")
+ans = input()
